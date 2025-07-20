@@ -1,0 +1,4 @@
+2025-07-17 12:35:51,430 - INFO - Testing with username: user1 | Expected: failure
+2025-07-17 12:35:51,854 - INFO - Login failed as expected for invalid credentials 
+2025-07-17 12:35:52,361 - INFO - Testing with username: admin@yourstore.com | Expected: success
+2025-07-17 12:35:56,051 - INFO - Login successful as expected
